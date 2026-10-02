@@ -321,5 +321,4 @@ def translate(
 
         "provider":
             "Inclura Translation Service",
-}
     }
